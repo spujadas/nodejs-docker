@@ -1,0 +1,7 @@
+# Docker Compose file for Node.js
+
+# Build with:
+# docker-compose build
+
+nodejs:
+  build: .
